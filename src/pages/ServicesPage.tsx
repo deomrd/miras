@@ -261,7 +261,7 @@ const ServicesPage = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {/* Portfolio Project */}
           <Card>
-            <a href="https://deomrd.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <a href="deomrd.miraslabs.com" target="_blank" rel="noopener noreferrer">
               <div className="h-48 overflow-hidden">
                 <img 
                   src="/porfolio.jpg" 
