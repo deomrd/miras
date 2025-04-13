@@ -17,7 +17,7 @@ const Footer = () => {
             Phone : +243 991 240 877
             </p>
             <p className="text-sm text-gray-200 mt-2">
-              Email: contact@miras.com
+              Email: contact@miraslabs.com
             </p>
           </div>
           <div>
