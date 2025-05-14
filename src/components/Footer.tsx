@@ -12,12 +12,12 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">Miras</h3>
+            <h3 className="text-xl font-bold mb-4">MirasLabs</h3>
             <p className="text-sm text-gray-200">
-            Phone : +243 991 240 877
+            Phone : +243 974 506 209, 991 240 877
             </p>
             <p className="text-sm text-gray-200 mt-2">
-              Email: contact@miraslabs.com
+            Email: contact@miraslabs.com
             </p>
           </div>
           <div>

@@ -29,7 +29,7 @@ const Navbar = () => {
           <div className="flex">
             <div className="flex-shrink-0 flex items-center">
               <Link to="/" className="flex items-center">
-                <span className="text-2xl font-bold text-miras-blue">Miras</span>
+               <img src="/miraslabs.png" alt="MirasLabs Logo" className="h-16 w-auto" /> <span className="text-2xl font-bold text-miras-blue">Miras </span><span className="text-2xl font-bold">Labs</span>
               </Link>
             </div>
             <div className="hidden sm:ml-6 sm:flex sm:space-x-8">

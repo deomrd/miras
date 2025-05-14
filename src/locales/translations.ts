@@ -29,8 +29,8 @@ export const translations: Translations = {
   
   // Home page
   welcomeTitle: {
-    fr: "Bienvenue chez Miras",
-    en: "Welcome to Miras",
+    fr: "Bienvenue chez MirasLabs",
+    en: "Welcome to MirasLabs",
   },
   welcomeSubtitle: {
     fr: "Les spécialistes du web",
@@ -179,20 +179,20 @@ export const translations: Translations = {
   
   // About page
   aboutTitle: {
-    fr: "À propos de Miras",
-    en: "About Miras",
+    fr: "À propos de MirasLabs",
+    en: "About MirasLabs",
   },
   aboutDescription: {
-    fr: "Miras est une entreprise spécialisée dans les solutions web.",
-    en: "Miras is a company specialized in web solutions.",
+    fr: "MirasLabs est une entreprise spécialisée dans les solutions web.",
+    en: "MirasLabs is a company specialized in web solutions.",
   },
   ourHistory: {
     fr: "Notre histoire",
     en: "Our History",
   },
   historyText1: {
-    fr: "Fondée avec passion et vision, Miras s'est établie comme un acteur clé dans le paysage numérique. Notre équipe combine expertise technique et créativité pour offrir des solutions web adaptées aux besoins des entreprises et organisations.",
-    en: "Founded with passion and vision, Miras has established itself as a key player in the digital landscape. Our team combines technical expertise and creativity to offer web solutions tailored to the needs of businesses and organizations.",
+    fr: "Fondée avec passion et vision, MirasLabs s'est établie comme un acteur clé dans le paysage numérique. Notre équipe combine expertise technique et créativité pour offrir des solutions web adaptées aux besoins des entreprises et organisations.",
+    en: "Founded with passion and vision, MirasLabs has established itself as a key player in the digital landscape. Our team combines technical expertise and creativity to offer web solutions tailored to the needs of businesses and organizations.",
   },
   historyText2: {
     fr: "Nous accompagnons nos clients dans leur transformation digitale avec passion et professionnalisme, en restant à la pointe des dernières tendances technologiques.",
