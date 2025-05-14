@@ -128,11 +128,11 @@ const HomePage = () => {
                     </li>
                   </ul>
                 </div>
-                <Link to="/contact">
+                <a href="https://wa.me/243974506209?text=Bonjour%2C%20j%27ai%20besoin%20de%20vos%20services%20web" target="_blank" rel="noopener noreferrer" className="flex items-center">
                   <Button variant="secondary" className="bg-white text-blue-600 hover:bg-gray-100">
                     {t('contactForPromotion')}
                   </Button>
-                </Link>
+                </a>
               </div>
               <div className="flex-1 hidden md:block">
                 <img 
